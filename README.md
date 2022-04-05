@@ -2,7 +2,7 @@
 
 ##Glitch:
 
-##GitHub:
+##GitHub: https://github.com/Wallcroft09/webtechnology-cw2
 
 ### This is CRUD application for taking notes
 
